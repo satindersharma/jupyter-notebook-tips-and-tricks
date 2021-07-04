@@ -4,7 +4,7 @@ Here you can find some jupyter notebook customized tips and tricks
 
 
 
-#### 4. Measure Cell Execution Time
+### 1. Measure Cell Execution Time
 ##### Use `%%time` to get the elapsed time of running a cell of code.
 
 ```python
@@ -14,7 +14,7 @@ nums = [i**2 for i in range(1,1_000_000)]
 ```
 
 
-#### 7. Extensions to Jupyter Notebooks
+### 2. Extensions to Jupyter Notebooks
 #### Jupyter Notebook is a great tool, but a bare notebook lacks useful features. This is where the extensions kick in.
 ##### 1. Run the following command in the command line to install the extensions:
 
